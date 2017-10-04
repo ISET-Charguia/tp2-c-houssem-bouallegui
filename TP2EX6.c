@@ -9,7 +9,7 @@
 
  printf("taper les troi variables : \n");
 
- scanf("%f" "%f" "%f",&a,%b,%c);
+ scanf("%f" "%f" "%f",&a,&b,&c);
  
  max=a;
 
