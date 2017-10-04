@@ -10,17 +10,17 @@ int main()
 
 	scanf("%c",&c);
 
-	if((c>="A")&&(c<="Z"))
+	if((c>=65)&&(c<=90))
 
 	{	printf("c'est un caractere alphabetique majuscule \n");}
 
-	else if((c>="a")&&(c<="z"))
+	else if((c>=97)&&(c<=122))
 
 		{printf("c'est caractere alphabetique minuscule \n");}
 
 
 
-	else if((c>="0")&&(c<="9"))
+	else if((c>=48)&&(c<=57))
 
 	{	printf("c'est un chiffre \n");}
 
