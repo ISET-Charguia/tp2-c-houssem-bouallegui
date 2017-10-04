@@ -15,7 +15,7 @@ int main()
 
 	if((a%4==0)&&(a%100!=0))
    {
-    printf("%d est bissexctil \n",a);
+    printf("%d est bissextil \n",a);
    }
 
 	else
