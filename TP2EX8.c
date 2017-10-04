@@ -8,7 +8,7 @@ int main()
 
 	float x;
 
-	printf("donner le nombre d'années");
+	printf("donner le nombre d'années \n");
 
 	scanf("%d",&an);
 
@@ -28,7 +28,7 @@ int main()
   {
 		x=0.058;
   }
-	printf("le taux d'intéret sur %d années est %f",%an,&x);
+	printf("le taux d'intéret sur %d années est %f \n",%an,&x);
 
 
  return 0;
