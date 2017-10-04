@@ -31,7 +31,7 @@
  {
 	 min=c;
  }
- printf("le max est %f et le min est %f \n",&max,&min);
+ printf("le max est %f et le min est %f \n",max,min);
  
  return 0;
 }
