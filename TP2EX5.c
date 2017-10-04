@@ -12,7 +12,7 @@ int main()
 
 	scanf("%d",&n);
 
-	if ((n<100))||(n>999)
+	if (!(n<100)&&(n>999))
   {
 	 printf("erreur verifier le nombre entrer \n");
   }
