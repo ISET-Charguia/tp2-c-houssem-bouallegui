@@ -9,11 +9,11 @@ int main()
 
 	float x ;
 
-	printf("donner la valeur de a :");
+	printf("donner la valeur de a : \n");
 
 	scanf("%d",&a);
 
-	printf("donner la valeur de b :");
+	printf("donner la valeur de b : \n");
 
 		scanf("%d",&b);
 
@@ -23,7 +23,7 @@ int main()
 
 
 
-			printf("la solution de l'equation (ax+b) est : %3.f ",x);
+			printf("la solution de l'equation (ax+b) est : \n %3.f ",x);
 
    return 0;
 
