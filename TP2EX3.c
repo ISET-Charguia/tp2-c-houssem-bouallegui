@@ -5,9 +5,7 @@ int main()
 
 {
 
-	int a,b ;
-
-	float x ;
+	float x,a,b ;
 
 	printf("donner la valeur de a : \n");
 
