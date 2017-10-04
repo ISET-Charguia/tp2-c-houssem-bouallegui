@@ -5,7 +5,7 @@ int main()
 
 	float x;
 
-	printf("donner un réel");
+	printf("donner un réel \n");
 
 	scanf ("%f",&x);
 
