@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 #include <math.h>
@@ -12,14 +13,13 @@ int main()
 
 	scanf("%d",&a);
 
-	if(a%4==0)
+	if((a%4==0)&&(a%100!=0))
    {
     printf("%d est bissexctil \n",a);
    }
 
 	else
-   { 
+   {
     printf("%d est non bissextil \n",a);
    }
   return 0;
-}
