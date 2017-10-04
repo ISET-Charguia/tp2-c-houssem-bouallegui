@@ -7,7 +7,7 @@
 
   float min,max,a,b,c;
 
- printf("taper les troi variables:");
+ printf("taper les troi variables : \n");
 
  scanf("%f" "%f" "%f",&a,%b,%c);
  
@@ -31,7 +31,7 @@
  {
 	 min=c;
  }
- printf("le max est %f et le min est %f",&max,&min);
+ printf("le max est %f et le min est %f \n",&max,&min);
  
  return 0;
 }
