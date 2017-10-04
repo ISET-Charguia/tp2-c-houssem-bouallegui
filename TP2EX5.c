@@ -8,13 +8,13 @@ int main()
 
 	int c,d,n,u;
 
-	printf("donner un nombre inferieur à 999 :");
+	printf("donner un nombre inferieur à 999 : \n");
 
 	scanf("%d",&n);
 
 	if ((n<100))||(n>999)
   {
-	 printf("erreur");
+	 printf("erreur verifier le nombre entrer \n");
   }
 	else
 	{
