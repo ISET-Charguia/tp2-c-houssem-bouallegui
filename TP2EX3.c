@@ -21,7 +21,7 @@ int main()
 
 
 
-			printf("la solution de l'equation (ax+b) est : \n %3.f ",x);
+			printf("la solution de l'equation (ax+b) est : \n %f ",x);
 
    return 0;
 
